@@ -154,7 +154,7 @@ Worked on frontend UI and responsive layouts for a Shopify application.
 
 ## 🌍 Portfolio
 
-<a href="https://arbajkhan.in/" target="_blank">
+<a href="https://arbaj-portfolio.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge" alt="Portfolio">
 </a>
 
